@@ -1,0 +1,1263 @@
+body{
+  line-height: 1.3 !important;
+  margin: 0;
+  color: black !important;
+}
+
+h1,h2,h3,h4,h5,h6,p,a {
+  margin: 0 !important;
+  
+}
+
+
+button, input, select {
+  outline: none !important;
+}
+
+a {
+  text-decoration: none !important;
+  color: black !important;
+}
+
+a:hover {
+  color: #b42e2e !important;
+}
+
+.btn-header a {
+  color: #FFFFFF !important;
+}
+
+.colr_gris {
+  color: #8A8A8A;
+}
+
+.colr_gris:hover {
+  color: #b42e2e;
+}
+
+.w-80 {
+  width: 80%;
+}
+
+/* COLORES*/
+
+.white {
+  color: #ffffff;
+}
+
+.gray-footer {
+  color: #8A8A8A
+}
+
+.bg-black-header {
+  background-color: #111111;
+}
+
+.bg-red-button {
+  background-color: #B03336;
+}
+
+.t-justify {
+ text-align: justify;
+}
+
+/* contenedores */
+
+.cont-header {
+  height: 80px;
+}
+
+.container-1525 {
+  max-width: 1525px;
+  width: 100%;
+}
+
+
+.container-1650 {
+  max-width: 1650px;
+  width: 100%;
+}
+
+
+.container-1800 {
+  max-width: 1800px;
+  width: 100%;
+}
+
+.container-1176 {
+  max-width: 1176px;
+  width: 100%;
+}
+
+.container-756 {
+  max-width: 756px;
+  width: 100%;
+}
+
+.container-479 {
+  max-width: 479px;
+  width: 100%;
+}
+
+.container-258 {
+  max-width: 258px;
+  width: 100%;
+}
+
+.cont-footer {
+  height: auto;
+}
+
+
+
+/* Grillas */
+.jc-end {
+  justify-content: flex-end;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.align-end {
+  align-items: flex-end;
+}
+
+.d-block {
+  display: block;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.fl-colum {
+  flex-direction: column;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
+.jc-between {
+  justify-content: space-between;
+}
+
+.row-d {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.row-a {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+/*   margin-right: -15px;
+  margin-left: -15px; */
+}
+
+
+.lol-uno:hover{
+  transform: scale(1.1);
+  -ms-transform:scale(1.1); 
+  -moz-transform:scale(1.1); 
+  -webkit-transform:scale(1.1); 
+  -o-transform:scale(1.1); 
+}
+
+.lol-dos:hover{
+  transform: scale(1.1);
+  -ms-transform:scale(1.1); 
+  -moz-transform:scale(1.1); 
+  -webkit-transform:scale(1.1); 
+  -o-transform:scale(1.1); 
+}
+.lol-tres:hover{
+  transform: scale(1.1);
+  -ms-transform:scale(1.1); 
+  -moz-transform:scale(1.1); 
+  -webkit-transform:scale(1.1); 
+  -o-transform:scale(1.1); 
+}
+.lol-cuatro:hover{
+  transform: scale(1.1);
+  -ms-transform:scale(1.1); 
+  -moz-transform:scale(1.1); 
+  -webkit-transform:scale(1.1); 
+  -o-transform:scale(1.1); 
+}
+
+
+.btn-jugar:hover{
+  background-color: #da4548;
+}
+
+.jugar:hover {
+  transform: scale(1.1);
+  -ms-transform:scale(1.1); 
+  -moz-transform:scale(1.1); 
+  -webkit-transform:scale(1.1); 
+  -o-transform:scale(1.1); 
+}
+
+/* Padding */
+
+.px-0 {
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+
+.pt-20{
+  padding-top: 20px;
+}
+
+
+.pt-170 {
+  padding-top: 170px;
+}
+
+.pt-101{
+  padding-top: 101px;
+}
+
+.pt-30 {
+  padding-top: 30px;
+}
+
+.pt-60 {
+  padding-top: 60px;
+}
+
+.pt-70 {
+  padding-top: 70px;
+}
+
+.pt-80 {
+  padding-top: 80px;
+}
+
+.pt-110 {
+  padding-top: 110px;
+}
+
+.pt-95 {
+  padding-top: 95px;
+}
+
+.px-10 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.py-13 {
+  padding-top: 13px;
+  padding-bottom: 13px;
+}
+
+.px-36 {
+  padding-left: 36px;
+  padding-right: 36px;
+}
+
+.pt-96 {
+  padding-top: 96px;
+}
+
+.pt-50 {
+  padding-top: 50px;
+}
+
+.pb-83 {
+  padding-bottom: 83px;
+}
+
+.pb-40 {
+  padding-bottom: 40px;
+}
+
+.bord-radius {
+  border-radius: 20px;
+}
+
+.bord-none {
+  border: none;
+}
+
+.py-10{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+/* Margin */
+
+.mx-10 {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.over-hidden { 
+  overflow: hidden !important;
+}
+
+.mt-5 {
+  margin-top: 5px;
+}
+.mt-20 {
+  margin-top: 20px;
+}
+.mt-25 {
+  margin-top: 25px;
+}
+.mt-27 {
+  margin-top: 27px;
+}
+.mt-30 {
+  margin-top: 30px;
+}
+.mt-50 {
+  margin-top: 50px;
+}
+.mt-15 {
+  margin-top: 15px;
+}
+.mt-10 {
+  margin-top: 10px;
+}
+.mt-40 {
+  margin-top: 40px;
+}
+.mt-250 {
+  margin-top: 250px;
+}
+.mt-95 {
+  margin-top: 95px;
+}
+
+
+
+.mb-5 {
+  margin-bottom: 5px;
+}
+.mb-25 {
+  margin-bottom: 25px;
+}
+.mb-27 {
+  margin-bottom: 27px;
+}
+.mb-30 {
+  margin-bottom: 30px;
+}
+.mb-10 {
+  margin-bottom: 10px;
+}
+.mb-15 {
+  margin-bottom: 15px;
+}
+.mb-25 {
+  margin-bottom: 25px;
+}
+.mb-10 {
+  margin-bottom: 10px;
+}
+.mb-40 {
+  margin-bottom: 40px;
+}
+.mb-95 {
+  margin-bottom: 95px;
+}
+
+.mb-120 {
+  margin-bottom: 120px;
+}
+
+
+.mx-0 {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.my-10{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.mx-10 {
+  margin-left: 10px;
+  margin-right: 10px ;
+}
+
+
+
+
+
+
+
+/* Font-size */
+
+.text-underline {
+  text-decoration: underline;
+}
+
+.f-itlic {
+  font-style: italic;
+}
+
+
+.fw-bold {
+  font-weight: bold;
+}
+
+.fz-100 {
+  font-size: 100px;
+}
+
+.fz-20 {
+  font-size: 20px;
+}
+
+.fz-25 {
+  font-size: 25px;
+}
+
+.fz-30 {
+  font-size: 30px;
+}
+
+.fz-35 {
+  font-size: 35px;
+}
+
+.fz-50 {
+  font-size: 50px;
+}
+
+.fz-80 {
+  font-size: 80px;
+}
+
+.fz-60 {
+  font-size: 60px;
+}
+
+.fz-40 {
+  font-size: 40px;
+}
+
+.hero {
+  background-image: url(../assets/img/hero.jpg);
+  background-size: cover;
+  height: 708px;
+  z-index: -2;
+  position: relative;
+
+}
+
+.hero::after {
+  content: "";
+  position: absolute;
+  background-color: #111111;
+  width: 100%;
+  height: 708px;
+  opacity: 0.4;
+  top: 0px;
+  z-index: -1;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.box-shadow-gray {
+  box-shadow: 1px 2px 11px #252525;
+}
+
+.box-shadow-white {
+  box-shadow: 2px 2px 12px #a4a4a4;
+}
+
+.box-shadow-black {
+  box-shadow: 1px 2px 11px #111111;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.hero-2 {
+  background-image: url(../assets/img/hero-2.jpeg);
+  background-size: cover;
+  top: 219px;
+  position: relative;
+  margin-right: 38px;
+  max-height: 425px;
+}
+
+.destacados {
+  background-image: url(../assets/img/vector-modern-abstract-striped-squares-pattern-repeat-on-white-color-background-and-texture.jpg);
+  position: relative;
+  z-index: -1;
+  height: auto;
+  border-bottom: 1px solid black;
+
+}
+
+
+.lol-uno {
+  background-image: url(../assets/img/LoL_Thoughts.jpg);
+  background-size: cover;
+  background-position: center;
+  max-height: 190px;
+  height: 190px;
+  margin-left: 15px;
+  border-radius: 50px;
+}
+
+
+.lol-dos {
+  background-image: url(../assets/img/Samira.jpg);
+  background-size: cover;
+  background-position: center;
+  max-height: 190px;
+  height: 190px;
+  margin-left: 15px;
+  border-radius: 50px;
+}
+
+
+.lol-tres {
+  background-image: url(../assets/img/hnashe_crop_banner.jpg);
+  background-size: cover;
+  background-position: center;
+  max-height: 190px;
+  height: 190px;
+  border-radius: 50px;
+}
+
+
+.lol-cuatro {
+  background-image: url(../assets/img/LOL_PROMOART_13.jpg);
+  background-size: cover;
+  background-position: center;
+  max-height: 190px;
+  height: 190px;
+  border-radius: 50px;
+}
+
+
+
+
+
+.novedades {
+  background-image: url(../assets/img/Behavioral_System.jpg);
+  background-size: cover;
+  height: 708px;
+  position: relative;
+  z-index: 1;
+}
+
+
+.novedades::after {
+  content: "";
+  position: absolute;
+  background-color: #111111;
+  width: 100%;
+  height: 708px;
+  opacity: 0.4; 
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  z-index: -1;
+}
+
+
+.primeraNoticia {
+  background-image: url(../assets/img/LoL_Thoughts.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 702px;
+  position: relative;
+  z-index: 1;
+}
+
+
+.primeraNoticia::after {
+  content: "";
+  position: absolute;
+  background-color: #111111;
+  width: 100%;
+  height: 702px;
+  opacity: 0.4;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  z-index: -1;
+}
+
+
+.novedad-sty {
+  position: relative;
+  top: 90px;
+}
+
+.borde {
+  width: 100%;
+  border: 2px solid rgb(209, 209, 209);
+  position: absolute;
+  height: 583px;
+  background-color: transparent;
+  right: -36px;
+  bottom: -41px;
+}
+
+.borde-header {
+  width: 100%;
+  border: 2px solid rgb(209, 209, 209);
+  position: relative;
+  height: 409px;
+  background-color: transparent;
+  top: 37px;
+  left: 39px;
+
+}
+
+
+
+.tft {
+  background-image: url(../assets/img/tft_fates_pass_banner.jpg);
+  background-size: cover;
+  height: 708px;
+  position: relative;
+  z-index: 1;
+}
+
+
+.tft::after{
+  content: "";
+  position: absolute;
+  background-color: #111111;
+  width: 100%;
+  height: 708px;
+  opacity: 0.4; 
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  z-index: -1;
+}
+
+
+
+.tft-sty {
+  position: relative;
+  top: 90px;
+}
+
+.mini-noticias {
+  border-left: 1px solid black;
+}
+
+
+
+@media (max-width: 575px) {
+  .fz-100 {
+    font-size: 68px !important;
+  }
+
+}
+
+u{
+  color: cyan;
+}
+.subrayado{
+  text-decoration: none;
+}
+
+.subrayado:hover{
+  color: black;
+  text-decoration: none;
+}
+
+.subrayado:visited{
+  color: black;
+  text-decoration: none;
+}
+
+@media  ( min-width: 100px) and (max-width: 991px) {
+  .d-sm-none {
+    display: none;
+  }
+
+  .mini-noticias {
+  border-left: none;
+  }
+
+  .fz-30 {
+    font-size: 25px;
+  }
+    
+  .fz-25 {
+    font-size: 20px;
+  }
+
+  #destacados .mt-95 {
+    margin-top: 0;
+  }
+
+}
+
+
+.segundaNoticia {
+  background-image: url(../assets/img/Samira.jpg);
+  background-size: cover;
+  background-position: top;
+  height: 702px;
+  position: relative;
+  z-index: 1;
+}
+
+.segundaNoticia::after {
+  content: "";
+  position: absolute;
+  background-color: #111111;
+  width: 100%;
+  height: 702px;
+  opacity: 0.4;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  z-index: -1;
+}
+
+
+.terceraNoticia {
+  background-image: url(../assets/img/ashe.jpg);
+  background-size: cover;
+  background-position: top;
+  height: 702px;
+  position: relative;
+  z-index: 1;
+}
+
+.terceraNoticia::after {
+  content: "";
+  position: absolute;
+  background-color: #111111;
+  width: 100%;
+  height: 702px;
+  opacity: 0.4;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  z-index: -1;
+}
+
+
+.cuartaNoticia {
+  background-image: url(../assets/img/LOL_PROMOART_13.jpg);
+  background-size: cover;
+  background-position-y: 74%;
+  height: 702px;
+  position: relative;
+  z-index: 1;
+}
+
+.cuartaNoticia::after {
+  content: "";
+  position: absolute;
+  background-color: #111111;
+  width: 100%;
+  height: 702px;
+  opacity: 0.4;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  z-index: -1;
+}
+  
+
+/* ----------------- sTyLoS NuEvOs --------------*/
+
+
+.noticia-uno{
+  background-color: white;
+  border: 1px solid #707070;
+  border-radius: 50px;
+}
+
+.noticia-dos{
+  background-color: white;
+  border: 1px solid #707070;
+  border-radius: 50px;
+}
+
+
+.noticia-tres{
+  background-color: white;
+  border: 1px solid #707070;
+  border-radius: 50px;
+}
+
+.noticia-cuatro{
+  background-color: white;
+  border: 1px solid #707070;
+  border-radius: 50px;
+}
+
+.img-header {
+  width: 150px;
+  height: 48px;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+}
+
+.mb-18 {
+  margin-bottom: 18px;
+}
+
+.mt-18 {
+  margin-top: 18px;
+}
+
+@media  ( min-width: 992px) and (max-width: 1450px) {
+
+  #min-destacados .fz-30 {
+    font-size: 20px;
+  }
+    
+  #min-destacados .fz-25 {
+    font-size: 15px;
+  }
+
+}
+
+
+@media (max-width: 575px) {
+  .img-header {
+      width: 86px !important;
+      height: 28px !important;
+  }
+   
+  #header .py-13 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  #header .px-36 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  #header .fz-20 {
+    font-size: 15px;
+  }
+}
+  
+@media (max-width: 375px) {
+  .img-header {
+      width: 76px !important;
+      height: 22px !important;
+  }
+   
+  #header .py-13 {
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+
+  #header .px-36 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  #header .fz-20 {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 1199px) {
+
+  .mmt-40 {
+    margin-top: 40px;
+  }
+
+  .borde {
+    width: 100%;
+    border: 2px solid rgb(209, 209, 209);
+    position: absolute;
+    height: 433px;
+    background-color: transparent;
+    right: -36px;
+    bottom: -36px;
+  }
+}
+
+
+@media (max-width: 790px) {
+  .novedades {
+    background-image: url(../assets/img/Behavioral_System.jpg);
+    background-size: cover;
+    height: 450px;
+    position: relative;
+    z-index: 1;
+  }
+
+  .novedades::after {
+    content: "";
+    position: absolute;
+    background-color: #111111;
+    width: 100%;
+    height: 450px;
+    opacity: 0.4;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    z-index: -1;
+  }
+
+  .tft {
+    background-image: url(../assets/img/tft_fates_pass_banner.jpg);
+    background-size: cover;
+    height: 450px;
+    position: relative;
+    z-index: 1;
+  }
+  
+  
+  .tft::after{
+    content: "";
+    position: absolute;
+    background-color: #111111;
+    width: 100%;
+    height: 450px;
+    opacity: 0.4; 
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    z-index: -1;
+  }
+
+  .primeraNoticia {
+    background-image: url(../assets/img/LoL_Thoughts.jpg);
+    background-size: cover;
+    height: 450px;
+    position: relative;
+    z-index: 1;
+  }
+
+  .primeraNoticia::after {
+    content: "";
+    position: absolute;
+    background-color: #111111;
+    width: 100%;
+    height: 450px;
+    opacity: 0.4;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    z-index: -1;
+  }
+  
+  
+.segundaNoticia {
+  background-image: url(../assets/img/Samira.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 450px;
+  position: relative;
+  z-index: 1;
+}
+
+
+.segundaNoticia::after {
+  content: "";
+  position: absolute;
+  background-color: #111111;
+  width: 100%;
+  height: 450px;
+  opacity: 0.4;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  z-index: -1;
+}
+  
+
+
+.terceraNoticia {
+  background-image: url(../assets/img/ashe.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 450px;
+  position: relative;
+  z-index: 1;
+}
+
+
+.terceraNoticia::after {
+  content: "";
+  position: absolute;
+  background-color: #111111;
+  width: 100%;
+  height: 450px;
+  opacity: 0.4;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  z-index: -1;
+}
+
+
+
+.cuartaNoticia {
+  background-image: url(../assets/img/LOL_PROMOART_13.jpg);
+  background-size: cover;
+  background-position-y: 74%;
+  height: 450px;
+  position: relative;
+  z-index: 1;
+}
+
+.cuartaNoticia::after {
+  content: "";
+  position: absolute;
+  background-color: #111111;
+  width: 100%;
+  height: 450px;
+  opacity: 0.4;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  z-index: -1;
+}
+
+
+
+  .mt-250 {
+    margin-top: 170px !important;
+  }
+
+
+}
+
+.wt-100{
+  width: 100%;
+}
+
+.pegi {
+  width: 91px;
+  height: 111px; 
+}
+
+.usk {
+  width: 111px;
+  height: 111px;
+}
+
+@media (max-width: 758px) {
+  .fz-40 {
+    font-size: 30px !important;
+  }
+
+  .fz-20 {
+    font-size: 20px;
+  }
+
+  #footer .wt-100 {
+    width: 80%;
+  }
+  
+  #footer .fz-60 {
+    font-size: 40px;
+  }
+
+  .pegi {
+    width: 71px;
+    height: 71px; 
+  }
+
+  .usk {
+    width: 71px;
+    height: 71px;
+  }
+}
+
+
+@media (max-width: 425px) {
+  .novedades {
+    background-image: url(../assets/img/Behavioral_System.jpg);
+    background-size: cover;
+    height: 300px;
+    position: relative;
+    z-index: 1;
+  }
+
+  .novedades::after {
+    content: "";
+    position: absolute;
+    background-color: #111111;
+    width: 100%;
+    height: 300px;
+    opacity: 0.4;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    z-index: -1;
+  }
+
+
+  .tft {
+    background-image: url(../assets/img/tft_fates_pass_banner.jpg);
+    background-size: cover;
+    height: 300px;
+    position: relative;
+    z-index: 1;
+  }
+  
+  
+  .tft::after{
+    content: "";
+    position: absolute;
+    background-color: #111111;
+    width: 100%;
+    height: 300px;
+    opacity: 0.4; 
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    z-index: -1;
+  }
+
+
+  
+.primeraNoticia {
+  background-image: url(../assets/img/LoL_Thoughts.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  position: relative;
+  z-index: 1;
+}
+
+
+.primeraNoticia::after {
+  content: "";
+  position: absolute;
+  background-color: #111111;
+  width: 100%;
+  height: 300px;
+  opacity: 0.4;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  z-index: -1;
+}
+  
+
+
+.segundaNoticia {
+  background-image: url(../assets/img/Samira.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  position: relative;
+  z-index: 1;
+}
+
+
+.segundaNoticia::after {
+  content: "";
+  position: absolute;
+  background-color: #111111;
+  width: 100%;
+  height: 300px;
+  opacity: 0.4;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  z-index: -1;
+}
+
+
+.terceraNoticia {
+  background-image: url(../assets/img/ashe.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  position: relative;
+  z-index: 1;
+}
+
+
+.terceraNoticia::after {
+  content: "";
+  position: absolute;
+  background-color: #111111;
+  width: 100%;
+  height: 300px;
+  opacity: 0.4;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  z-index: -1;
+}
+  
+.cuartaNoticia {
+  background-image: url(../assets/img/LOL_PROMOART_13.jpg);
+  background-size: cover;
+  background-position-y: 74%;
+  height: 300px;
+  position: relative;
+  z-index: 1;
+}
+
+.cuartaNoticia::after {
+  content: "";
+  position: absolute;
+  background-color: #111111;
+  width: 100%;
+  height: 300px;
+  opacity: 0.4;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  z-index: -1;
+}
+
+  .mt-250 {
+    margin-top: 150px !important;
+  }
+
+  .fz-40 {
+    font-size: 25px !important;
+  }
+
+  .fz-20 {
+    font-size: 15px !important;
+  }
+
+  #footer .wt-100 {
+    width: 50%;
+  }
+
+  #footer .fz-60 {
+    font-size: 30px;
+  }
+
+
+  .pegi {
+    width: 50px;
+    height: 50px;
+  }
+
+  .usk {
+    width: 50px;
+    height: 50px;
+  }
+
+}
+
+.subrayado{
+  text-decoration: none;
+}
+
+.subrayado:hover{
+  color: black;
+  text-decoration: none;
+}
+
+.subrayado:visited{
+  color: black;
+  text-decoration: none;
+}
+
+.pt-20 {
+  padding-top: 20px;
+}
+
+/* Final Mio */
